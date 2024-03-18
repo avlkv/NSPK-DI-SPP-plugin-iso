@@ -39,7 +39,7 @@ class ISO:
         # Обнуление списка
         self._content_document = []
 
-        self.driver = webdriver
+        # self.driver = webdriver
         self.max_count_documents = max_count_documents
 
         # Логер должен подключаться так. Вся настройка лежит на платформе
